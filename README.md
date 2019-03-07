@@ -1,2 +1,3 @@
 # leetcode_questions
-Write down the questions i had done in leetcode.com
+链表相关：19、21、141、206、876
+栈相关：20、155、224、232、496、682、844
