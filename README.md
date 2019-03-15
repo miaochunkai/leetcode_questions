@@ -8,8 +8,9 @@
 [<从尾到头打印链表>](https://github.com/miaochunkai/leetcode_questions/issues/5)  
 
 ### 栈相关：
-20、155、224、232、496、682、844
+[20-<括号匹配>](https://github.com/miaochunkai/leetcode_questions/issues/7)  
+155、224、232、496、682、844
 
 ###  其他：
-[<字符替换(替换空格)>](https://github.com/miaochunkai/leetcode_questions/issues/7)  
+[<字符替换(替换空格)>](https://github.com/miaochunkai/leetcode_questions/issues/9)  
 [<二维数组查找>](https://github.com/miaochunkai/leetcode_questions/issues/8)  
