@@ -12,5 +12,5 @@
 155、224、232、496、682、844
 
 ###  其他：
-[<字符替换(替换空格)>](https://github.com/miaochunkai/leetcode_questions/issues/9)  
-[<二维数组查找>](https://github.com/miaochunkai/leetcode_questions/issues/8)  
+[<字符替换(替换空格)>](https://github.com/miaochunkai/leetcode_questions/issues/8)  
+[<二维数组查找>](https://github.com/miaochunkai/leetcode_questions/issues/9)  
