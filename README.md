@@ -9,7 +9,7 @@
 
 ### 栈相关：
 [20-<括号匹配>](https://github.com/miaochunkai/leetcode_questions/issues/7)  
-155、224、232、496、682、844
+224、232、496、682、844
 
 ###  其他：
 [<字符替换(替换空格)>](https://github.com/miaochunkai/leetcode_questions/issues/8)  
