@@ -10,7 +10,8 @@
 ### 栈相关：
 [20-<括号匹配>](https://github.com/miaochunkai/leetcode_questions/issues/7)  
 [224-<字符串处理数字加减(带括号)>](https://github.com/miaochunkai/leetcode_questions/issues/8)  
-232、496、682、844
+[232-<>](https://github.com/miaochunkai/leetcode_questions/issues/9)  
+496、682、844
 
 ###  其他：
 [<字符替换(替换空格)>](https://github.com/miaochunkai/leetcode_questions/issues/11)  
